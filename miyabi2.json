@@ -1,0 +1,384 @@
+{
+  "name": "MIYABI-CHAN",
+  "description": "Miyabi clean ui",
+  "authors": [
+    {
+      "name": "Op"
+    }
+  ],
+  "spec": 2,
+  "semanticColors": {
+    "BACKGROUND_PRIMARY": [
+      "#3A6F8A"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#4A363A"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#4A363A"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#4A363A"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#4A363A"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#3A6F8A"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#4A363A"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#E58F9D"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "#76585D"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#E58F9D33"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "#E58F9D22"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#E58F9D44"
+    ],
+    "CHAT_BACKGROUND": [
+      "#3A6F8A"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#B79FA2"
+    ],
+    "CHANNEL_ICON": [
+      "#B79FA2"
+    ],
+    "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+      "#9E8589"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#4A363A"
+    ],
+    "INPUT_BACKGROUND": [
+      "#24171B"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#E9D9FF"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#F0A0AC"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#E58F9D"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#B79FA2"
+    ],
+    "HEADER_PRIMARY": [
+      "#E9D9FF"
+    ],
+    "HEADER_SECONDARY": [
+      "#B79FA2"
+    ],
+    "TEXT_NORMAL": [
+      "#E9D9FF"
+    ],
+    "TEXT_MUTED": [
+      "#B79FA2"
+    ],
+    "TEXT_LINK": [
+      "#E58F9D"
+    ],
+    "TEXT_DANGER": [
+      "#D96E7B"
+    ],
+    "TEXT_POSITIVE": [
+      "#8FC7A5"
+    ],
+    "TEXT_WARNING": [
+      "#E4BE78"
+    ],
+    "FOCUS_PRIMARY": [
+      "#E58F9D"
+    ],
+    "BUTTON_PRIMARY_BACKGROUND": [
+      "#CF7787"
+    ],
+    "BUTTON_PRIMARY_BACKGROUND_HOVER": [
+      "#E58F9D"
+    ],
+    "BUTTON_PRIMARY_TEXT": [
+      "#FFFFFF"
+    ],
+    "MENTION_FOREGROUND": [
+      "#E58F9D"
+    ],
+    "STATUS_DANGER_BACKGROUND": [
+      "#D96E7B"
+    ],
+    "STATUS_DANGER_TEXT": [
+      "#3A6F8A"
+    ],
+    "STATUS_POSITIVE_BACKGROUND": [
+      "#8FC7A5"
+    ],
+    "STATUS_POSITIVE_TEXT": [
+      "#FFFFFF"
+    ],
+    "STATUS_WARNING_BACKGROUND": [
+      "#E4BE78"
+    ],
+    "STATUS_WARNING_TEXT": [
+      "#322024"
+    ],
+    "SCROLLBAR_AUTO_THUMB": [
+      "#E58F9D55"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "#00000000"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "#E58F9D55"
+    ],
+    "SCROLLBAR_THIN_TRACK": [
+      "#00000000"
+    ],
+    "BACKGROUND_BRAND": [
+      "#E58F9D"
+    ],
+    "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
+      "#B79FA2"
+    ],
+    "ANDROID_NAVIGATION_SCRIM_BACKGROUND": [
+      "#3A6F8A"
+    ],
+    "BG_BASE_PRIMARY": [
+      "#3A6F8A"
+    ],
+    "HOME_BACKGROUND": [
+      "#3A6F8A"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#4A363A"
+    ],
+    "BACKGROUND_SURFACE_RAISED": [
+      "#4A363A"
+    ],
+    "BG_BASE_SECONDARY": [
+      "#4A363A"
+    ],
+    "BG_BASE_TERTIARY": [
+      "#4A363A"
+    ],
+    "BG_SURFACE_OVERLAY": [
+      "#4A363A"
+    ],
+    "BG_SURFACE_OVERLAY_TMP": [
+      "#4A363A"
+    ],
+    "BG_SURFACE_RAISED": [
+      "#4A363A"
+    ],
+    "CARD_PRIMARY_BG": [
+      "#4A363A"
+    ],
+    "CARD_SECONDARY_BG": [
+      "#4A363A"
+    ],
+    "EMBED_BACKGROUND": [
+      "#4A363A"
+    ],
+    "INPUT_BACKGROUND_DEFAULT": [
+      "#4A363A"
+    ],
+    "KEYBOARD": [
+      "#4A363A"
+    ],
+    "PANEL_BG": [
+      "#4A363A"
+    ],
+    "POLLS_NORMAL_FILL_HOVER": [
+      "#4A363A"
+    ],
+    "POLLS_NORMAL_IMAGE_BACKGROUND": [
+      "#4A363A"
+    ],
+    "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
+      "#4A363A"
+    ],
+    "REDESIGN_ACTIVITY_CARD_BACKGROUND_PRESSED": [
+      "#4A363A"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
+      "#4A363A"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+      "#4A363A"
+    ],
+    "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
+      "#4A363A"
+    ],
+    "REDESIGN_CHAT_INPUT_BACKGROUND": [
+      "#4A363A"
+    ],
+    "INTERACTIVE_TEXT_DEFAULT": [
+      "#E9D9FF"
+    ],
+    "REDESIGN_CHANNEL_NAME_TEXT": [
+      "#E9D9FF"
+    ],
+    "TEXT_DEFAULT": [
+      "#E9D9FF"
+    ],
+    "TEXT_PRIMARY": [
+      "#E9D9FF"
+    ],
+    "TEXT_STRONG": [
+      "#E9D9FF"
+    ]
+  },
+  "rawColors": {
+    "BG_GRADIENT_CRIMSON_MOON_2": "#24171B",
+    "PRIMARY_100": "#E9D9FF",
+    "PRIMARY_130": "#FFD0D4",
+    "PRIMARY_200": "#E9D9FF",
+    "PRIMARY_230": "#F0A0AC",
+    "PRIMARY_300": "#E58F9D",
+    "PRIMARY_360": "#E58F9D",
+    "PRIMARY_400": "#F0A0AC",
+    "PRIMARY_460": "#4A363A",
+    "PRIMARY_500": "#E58F9D",
+    "PRIMARY_560": "#B85F70",
+    "PRIMARY_600": "#3A6F8A",
+    "PRIMARY_630": "#4A363A",
+    "PRIMARY_660": "#4A363A",
+    "PRIMARY_700": "#4A363A",
+    "PRIMARY_800": "#5E303A",
+    "PRIMARY_900": "#322024",
+    "BLACK_500": "#24171B",
+    "BLACK_900": "#24171B",
+    "BRAND_230": "#FFF7F2",
+    "BRAND_260": "#E58F9D",
+    "BRAND_360": "#E58F9D",
+    "BRAND_500": "#E58F9D",
+    "BRAND_560": "#F0A0AC",
+    "BRAND_600": "#E58F9D",
+    "RED_400": "#D96E7B",
+    "GREEN_360": "#8FC7A5",
+    "WHITE_500": "#E9D9FF",
+    "YELLOW_300": "#E4BE78",
+    "PLUM_20": "#3A6F8A",
+    "PLUM_16": "#4A363A",
+    "PLUM_22": "#4A363A",
+    "BRAND_200": "#E58F9D",
+    "BRAND_300": "#E58F9D",
+    "BRAND_330": "#E58F9D",
+    "BRAND_345": "#E58F9D",
+    "BRAND_400": "#E58F9D",
+    "BRAND_430": "#E58F9D",
+    "BRAND_460": "#E58F9D",
+    "BRAND_530": "#E58F9D",
+    "BRAND_630": "#E58F9D",
+    "BRAND_660": "#E58F9D",
+    "BRAND_700": "#E58F9D",
+    "PLUM_3": "#E58F9D",
+    "PLUM_15": "#E58F9D",
+    "PRIMARY_530": "#E58F9D",
+    "PLUM_9": "#B79FA2",
+    "PLUM_10": "#B79FA2",
+    "PLUM_11": "#B79FA2",
+    "PLUM_13": "#B79FA2",
+    "PRIMARY_730": "#B79FA2",
+    "ROLE_DEFAULT": "#B79FA2",
+    "WHITE_630": "#B79FA2",
+    "PLUM_17": "#3A6F8A",
+    "PLUM_24": "#3A6F8A",
+    "PLUM_25": "#3A6F8A",
+    "PRIMARY_DARK_700": "#3A6F8A",
+    "PRIMARY_DARK_800": "#3A6F8A",
+    "PLUM_19": "#4A363A",
+    "PLUM_21": "#4A363A",
+    "PRIMARY_DARK_600": "#4A363A",
+    "PRIMARY_DARK_630": "#4A363A",
+    "PRIMARY_DARK_660": "#4A363A",
+    "BRAND_730": "#E9D9FF",
+    "PLUM_1": "#E9D9FF",
+    "PLUM_4": "#E9D9FF",
+    "PLUM_6": "#E9D9FF",
+    "PRIMARY_330": "#E9D9FF",
+    "PRIMARY_DARK_200": "#E9D9FF"
+  },
+  "plus": {
+    "version": 0,
+    "customOverlays": true,
+    "iconpack": "rosiecord-plumpy"
+  },
+  "smoothStyling": {
+    "enabled": true,
+    "duration": 180,
+    "fastDuration": 120,
+    "slowDuration": 260,
+    "easing": "easeOutCubic",
+    "transition": {
+      "enabled": true,
+      "duration": 220,
+      "easing": "easeOutCubic",
+      "fade": true,
+      "slide": true,
+      "scale": true,
+      "slideDistance": 6,
+      "scaleFrom": 0.985
+    },
+    "button": {
+      "hoverDuration": 160,
+      "pressDuration": 100,
+      "pressScale": 0.985
+    },
+    "channel": {
+      "hoverDuration": 180,
+      "hoverOffset": 2
+    },
+    "avatar": {
+      "hoverDuration": 120,
+      "hoverScale": 1.035
+    },
+    "popout": {
+      "duration": 260,
+      "fade": true,
+      "slideDistance": 6,
+      "scaleFrom": 0.985
+    },
+    "reducedMotionSupport": true
+  },
+  "fontStyling": {
+    "enabled": true,
+    "fontFamily": "Comfortaa",
+    "fallback": [
+      "Nunito",
+      "Quicksand",
+      "sans-serif"
+    ],
+    "fontWeight": "500",
+    "headingWeight": "700",
+    "letterSpacing": 0.15,
+    "lineHeightScale": 1.04,
+    "applyTo": [
+      "messages",
+      "channels",
+      "headers",
+      "buttons",
+      "inputs",
+      "popouts"
+    ],
+    "useClientFontIfAvailable": true
+  },
+  "createdAt": "2026-09-10",
+  "source": "local",
+  "version": "5",
+  "background": {
+    "url": "https://raw.githubusercontent.com/legendary1op/Test/refs/heads/main/125350830_p0_master1200.webp",
+    "alpha": 0.64,
+    "size": "cover",
+    "position": "center"
+  }
+}
